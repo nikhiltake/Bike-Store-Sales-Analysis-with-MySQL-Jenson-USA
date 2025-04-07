@@ -44,7 +44,9 @@ This project sharpened my ability to think analytically, write efficient SQL, an
 
 I’m now working on visualizing these insights using Power BI, creating dashboards that show revenue breakdowns, store performance, and customer insights.
 
-🔗 Explore more of my work here: 
+🔗 GitHub Profile:https://github.com/nikhiltake
+
+🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
 
 Let’s connect if you’re into SQL, analytics, or working on data projects too — always happy to learn and grow with fellow enthusiasts! 🚀
 
